@@ -22,6 +22,7 @@ public class HolaMundo {
         
         
        JOptionPane.showMessageDialog(null, "Hola Bitches ");
+       JOptionPane.showMessageDialog(null, "Bienvenidos..... ");
     }
     
 }
